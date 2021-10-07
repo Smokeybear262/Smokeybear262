@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smokeybear262
-- 👀 I’m interested in ...fpv content
-- 🌱 I’m currently learning ...anything related to fpv
+- 👀 I’m interested in ...fpv content and 3D Printing
+- 🌱 I’m currently learning ...anything related to fpv and 3D Printing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...smokeybear262@yahoo.com
 
